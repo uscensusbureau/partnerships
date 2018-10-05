@@ -7,6 +7,6 @@ Officially rolling out the 2nd version of the Partnerships website!
 	- Updated fonts and colors to match new Census.gov design guidelines
 
 Changes made as of 10/5/2018
-- Edited copy on workshops.html and toolkits.html
+- Edited copy on workshops.html, toolkits.html, and join.html
 - Added external link to YouTube on workshops.html
 - Added downloadable CensusSolutionsWorkshopToolkit_Sept2018.pdf to workshops.html
