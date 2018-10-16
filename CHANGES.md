@@ -10,3 +10,8 @@ Changes made as of 10/5/2018
 - Edited copy on workshops.html, toolkits.html, and join.html
 - Added external link to YouTube on workshops.html
 - Added downloadable CensusSolutionsWorkshopToolkit_Sept2018.pdf to workshops.html
+
+Changes made as of 10/17/2018
+- Added Adobe tracking scripts
+- Edited Join form text
+- All links are set to target="_blank" to open in new tabs/windows
