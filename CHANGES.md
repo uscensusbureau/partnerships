@@ -14,4 +14,9 @@ Changes made as of 10/5/2018
 Changes made as of 10/17/2018
 - Added Adobe tracking scripts
 - Edited Join form text
-- All links are set to target="_blank" to open in new tabs/windows
+- All links are set to open in new tabs/windows
+
+Changes made as of 11/7/2018
+- Screenshots on toolkits page updated to fix typo
+- Toolkit PDF edited for typo
+- "Trainings" option in menu changed to "Census Academy"
